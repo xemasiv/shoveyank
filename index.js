@@ -2,7 +2,7 @@ let l = 'length';
 export const shove = (s, k, o, n, i) => (v) => {
   o = {}, n=o, i=0;
   k = k.split('.');
-  while (i + 1 < k.length) {
+  while (i + 1 < k[l]) {
     n[k[i]] = {};
     n = n[k[i]];
     i++;
