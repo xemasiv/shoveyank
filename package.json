@@ -1,0 +1,27 @@
+{
+  "name": "shoveyank",
+  "version": "1.0.0",
+  "description": "Minimal state setter & getter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Lol\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xemasiv/shoveyank.git"
+  },
+  "keywords": [
+    "shove",
+    "yank",
+    "values",
+    "towards",
+    "dat",
+    "hoe"
+  ],
+  "author": "xemasiv <xemasiv@gmail.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/xemasiv/shoveyank/issues"
+  },
+  "homepage": "https://github.com/xemasiv/shoveyank#readme"
+}
